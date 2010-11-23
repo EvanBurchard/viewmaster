@@ -7,3 +7,5 @@ tmp/**/*
 *.swo
 .rvmrc
 /coverage
+pkg
+rdoc
